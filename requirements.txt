@@ -1,0 +1,3 @@
+# NoteItDown Dependencies
+# Note: PyGObject requires GTK4 system libraries (e.g. 'sudo pacman -S python-gobject gtk4' on Arch Linux)
+PyGObject>=3.42.0
